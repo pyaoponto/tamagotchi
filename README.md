@@ -5,4 +5,5 @@ Tamagoshi made in python
 ## Installation and run
 
 ```pip install windows-curses```
+
 ```python tamagotchi.py```
